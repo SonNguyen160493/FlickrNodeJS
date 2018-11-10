@@ -1,0 +1,23 @@
+{
+  "name": "flickrnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oNguyenNgocSon/FlickrNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oNguyenNgocSon/FlickrNodeJS/issues"
+  },
+  "homepage": "https://github.com/oNguyenNgocSon/FlickrNodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
